@@ -4,8 +4,10 @@ This project is an assignment of Advanced Algorithms course.
 <h3>Project Description</h3>
 
 The problem that is going to be solved in this project is about generating a sequence of boxes using dynamic programming. More specifically, we are given N number of 2 dimensional boxes including the width and length of every single one of them and are expected to find the largest set of boxes such that they can be put one into another.
+
 To make the problem clearer:
-Given:
+
+<b>Given</b>:
 • N: Number of 2-D rectangular boxes.
 • Dimension of each box: (W,L).
 Goal:
