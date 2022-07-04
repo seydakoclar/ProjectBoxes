@@ -1,0 +1,10 @@
+C:\Users\seyda\source\repos\ProjectBoxes\ProjectBoxes\bin\Debug\ProjectBoxes.exe
+C:\Users\seyda\source\repos\ProjectBoxes\ProjectBoxes\bin\Debug\ProjectBoxes.pdb
+C:\Users\seyda\source\repos\ProjectBoxes\ProjectBoxes\obj\Debug\ProjectBoxes.csproj.AssemblyReference.cache
+C:\Users\seyda\source\repos\ProjectBoxes\ProjectBoxes\obj\Debug\ProjectBoxes.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ProjectBoxes\ProjectBoxes\obj\Debug\ProjectBoxes.exe
+C:\Users\seyda\source\repos\ProjectBoxes\ProjectBoxes\obj\Debug\ProjectBoxes.pdb
+C:\Users\seyda\source\repos\ProjectBoxes\ProjectBoxes\bin\Debug\ProjectBoxes.exe.manifest
+C:\Users\seyda\source\repos\ProjectBoxes\ProjectBoxes\bin\Debug\ProjectBoxes.application
+C:\Users\seyda\source\repos\ProjectBoxes\ProjectBoxes\obj\Debug\ProjectBoxes.exe.manifest
+C:\Users\seyda\source\repos\ProjectBoxes\ProjectBoxes\obj\Debug\ProjectBoxes.application
