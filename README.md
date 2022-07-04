@@ -53,4 +53,4 @@ By this way we generate our array using the necessary rotated versions of the bo
 
 • Sort our array in decreasing order with merge sort. The process is like sorting the boxes and putting them in an order so that they can be chosen in preserved order as well, just like a sequence in LIS. Sorting will be according to first coordinate, which stands for width, i.e., maximum of the dimensions. By doing this we are making sure that whichever sequence of boxes we choose, the widths will always preserve the decreasing order, hence, the problem becomes only applying LIS according to second coordinate, which is length, i.e., minimum of the dimensions.
 
-<h6>For detailed documentation please refer to pdf file in the project.</h6>
+<h6>For detailed documentation and encountered problems and the solution please first refer to pdf file named functional documentation and then refer to the one named as final documentation in the project.</h6>
